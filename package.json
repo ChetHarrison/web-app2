@@ -1,0 +1,24 @@
+{
+  "name": "web-app2",
+  "version": "1.0.0",
+  "description": "Web application scaffold",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChetHarrison/web-app2.git"
+  },
+  "keywords": [
+    "web",
+    "application",
+    "scaffold"
+  ],
+  "author": "Chet Harrison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChetHarrison/web-app2/issues"
+  },
+  "homepage": "https://github.com/ChetHarrison/web-app2#readme"
+}
