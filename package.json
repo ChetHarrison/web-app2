@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/ChetHarrison/web-app2/issues"
   },
-  "homepage": "https://github.com/ChetHarrison/web-app2#readme"
+  "homepage": "https://github.com/ChetHarrison/web-app2#readme",
+  "devDependencies": {
+    "babel-plugin-transform-es2015-modules-umd": "^6.8.0",
+    "grunt": "^1.0.1",
+    "grunt-babel": "^6.0.0",
+    "grunt-contrib-handlebars": "^1.0.0",
+    "grunt-requirejs": "^0.4.2",
+    "matchdep": "^1.0.1"
+  }
 }

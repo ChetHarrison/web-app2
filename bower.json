@@ -1,0 +1,26 @@
+{
+  "name": "web-app2",
+  "description": "Web application scaffold",
+  "main": "index.html",
+  "authors": [
+    "Chet Harrison"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "web",
+    "application",
+    "scaffold"
+  ],
+  "homepage": "https://github.com/ChetHarrison/web-app2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "firebase": "^3.0.5",
+    "material-design-lite": "^1.1.3"
+  }
+}
